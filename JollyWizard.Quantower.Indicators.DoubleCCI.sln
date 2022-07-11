@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JollyWizard.Quantower.Indicators.DoubleCCI", "JollyWizard.Quantower.Indicators.DoubleCCI.csproj", "{059FC4D7-1115-4D54-9C7A-E2C7D0305B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059FC4D7-1115-4D54-9C7A-E2C7D0305B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059FC4D7-1115-4D54-9C7A-E2C7D0305B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059FC4D7-1115-4D54-9C7A-E2C7D0305B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059FC4D7-1115-4D54-9C7A-E2C7D0305B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6541A18-DC3D-4B49-824E-4B5250D9C233}
+	EndGlobalSection
+EndGlobal
