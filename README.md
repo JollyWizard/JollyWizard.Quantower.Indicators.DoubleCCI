@@ -1,5 +1,6 @@
-# JollyWizard.Quantower.Indicators.VolumeDeltaPack
-A pack of Volume Delta related indicators for the quantower platform.
+# JollyWizard.Quantower.Indicators.DoubleCCI
+
+A Double CCI indicator for the quantower platform.
 
 ## Overview
 
